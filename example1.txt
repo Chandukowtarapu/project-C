@@ -1,1 +1,2 @@
 this is another example of text document
+changes from div 2 
